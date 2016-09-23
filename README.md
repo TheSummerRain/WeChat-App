@@ -11,3 +11,4 @@ SpringMVC
 可以使用maven或者gradel
 
 #应用号demo。
+https://github.com/TheSummerRain/WeChat-App/blob/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E6%90%9E.png
