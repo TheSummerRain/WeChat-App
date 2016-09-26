@@ -1,5 +1,6 @@
 # WeChat-App
-微信应用号 开发。抢先一步，大家一起来开发。
+微信小程序 开发。代做小程序，这是一套公共模板。
+QQ：414751689
 
 #官方文档-开发
 https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
