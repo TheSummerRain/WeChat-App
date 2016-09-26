@@ -1,6 +1,9 @@
 # WeChat-App
 微信应用号 开发。抢先一步，大家一起来开发。
 
+#官方文档-开发
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
+
 #语言选择
 JAVA
 
