@@ -6,14 +6,6 @@ QQ：414751689
 #官方文档-开发
 https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
 
-#语言选择
-JAVA
-
-#框架
-SpringMVC
-
-#构建工具。
-可以使用maven或者gradel
 
 #当前IDE开发版本：0.9.092300
 提示错误：当前开发者未绑定此appid,请到mp后台操作
